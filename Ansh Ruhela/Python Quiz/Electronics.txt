@@ -1,0 +1,6 @@
+Question :- Which Logic gate is used for multiplication operation?
+a) AND gate
+b) NOT gate
+c) X-OR gate
+d) X-NOR gate
+correct option :- a

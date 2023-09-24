@@ -1,0 +1,71 @@
+so i want to create a quiz application in python 
+when i execute the code it must go to the folder and check how many files present in the folder
+(folder name :- Python Quiz)
+let say there are 4 text files present in it; 
+and the name of those files is 
+Electronics.txt
+Physics.txt
+Mechanical.txt
+Chemistry.txt
+so till now we have done that there is a folder named Python Quiz that contains 4 txt files
+right;
+and we know the names of that files 
+now display a menu to the user 
+using GUI's
+Welcome to Python Quiz #this is a label
+#now display the number of buttons how many files are present in that folder 
+#for example as i mention above let say there are 4 files present in Python Quiz folder so 
+#for this you have to display here 4 buttons and the text on those buttons will be the same as 
+#the file name like its says file name is 
+#Chemistry.txt so the name in button should be only Chemistry
+#so it will be displaying buttons 
+Electronics
+Physics
+Mechanical
+Chemistry
+
+
+#LIKE IF i click Electronics button 
+#give a pop up saying electronics button clicked 
+#repeat for all buttons
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#LIKE IF i click Electronics button 
+#open a new window saying welcome to Electronics Quiz 
+
+
+/* so files bacically contains multiple choise questions 
+* in the format that first line contains questions then 4 options and fifth line contains answer
+* like for Electronics file
+* Question :- Which Logic gate is used for multiplication operation?
+* a) AND gate
+* b) NOT gate
+* c) X-OR gate
+* d) X-NOR gate
+* correct option :- a
+* and so on (as i mentioned earlier that there are n number of files having n number of question 
+**/
+
+#so like you have open the window of Welcome to electronics quiz
+now start reading that file like in our case i have considered only electronics file (but keep remember that there are many file on which we are woking on )
+suppose you have read the files sarting form Question :- .. to d) X-NOR gate
+
+Question :- Which Logic gate is used for multiplication operation?
+a) AND gate
+b) NOT gate
+c) X-OR gate
+d) X-NOR gate
+so you have to display this using label 
+and a,b,c,d are radio buttons 
+
+maintain next and previous button 
+
+
+#repeat for all buttons
+
+
+
+
+
